@@ -1,0 +1,13 @@
+Date,Start Time,End Time,Status
+20-12-2019,01:42:00,03:10:32,Connection Success
+20-12-2019,03:10:32,04:05:44,Connection Failed
+20-12-2019,05:47:55,13:43:22,Connection Success
+20-12-2019,13:43:22,18:54:29,Connection Failed
+20-12-2019,18:54:29,23:11:10,Connection Success
+20-12-2019,23:11:10,23:59:59,Connection Failed
+21-12-2019,01:42:00,03:10:32,Connection Success
+21-12-2019,03:10:32,04:05:44,Connection Failed
+21-12-2019,05:47:55,13:43:22,Connection Success
+21-12-2019,13:43:22,18:54:29,Connection Failed
+21-12-2019,18:54:29,23:11:10,Connection Success
+21-12-2019,23:11:10,23:59:59,Connection Failed
